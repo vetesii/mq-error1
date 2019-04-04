@@ -1,0 +1,11 @@
+**/nbactions-release-profile.xml
+**/nbactions.xml
+.classpath
+.project
+.settings/
+/*.classpath
+/.settings/*.prefs
+/.settings/org.eclipse.wst.common.project.facet.core.xml
+/nb-configuration.xml
+target/
+target/*
